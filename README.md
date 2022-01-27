@@ -10,6 +10,9 @@ For general information about developing packages, see the Dart guide for
 and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages). 
 -->
+
+This flutter package lets you cache your api responses locally
+thus saving network calls
 ## Installing
 
 ```
